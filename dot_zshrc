@@ -18,3 +18,4 @@ source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 alias -- cat=bat
 export EDITOR=cursor
 #test
+#test2
