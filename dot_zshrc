@@ -16,6 +16,4 @@ export PROMPT='${COLOR_USR}%n ${COLOR_DIR}%~ ${COLOR_GIT}$(parse_git_branch)${CO
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 alias -- cat=bat
-export EDITOR=cursor
-#test
-#test2
+
